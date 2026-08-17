@@ -36,7 +36,7 @@ The proposed system aims to improve battery anomaly detection, reduce unnecessar
 - FreeRTOS
 - CAN Bus communication tools
 - Docker
-- IoT monitoring tools
+- IoT monitoring tools.
 
 ### Setup
 
